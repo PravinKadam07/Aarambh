@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Aarambh/static/css/main.8ead8960.css",
+    "main.js": "/Aarambh/static/js/main.494a9b9e.js",
+    "static/media/sam.jpg": "/Aarambh/static/media/sam.3d2033ddeeec32051f63.jpg",
+    "static/media/rahul.jpg": "/Aarambh/static/media/rahul.1dc216330b24d87f1fc1.jpg",
+    "static/media/logo.jpg": "/Aarambh/static/media/logo.2c3bd87c8ef64f00998e.jpg",
+    "static/media/sharad.jpg": "/Aarambh/static/media/sharad.28e68c80ce58b4515fa9.jpg",
+    "index.html": "/Aarambh/index.html",
+    "main.8ead8960.css.map": "/Aarambh/static/css/main.8ead8960.css.map",
+    "main.494a9b9e.js.map": "/Aarambh/static/js/main.494a9b9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ead8960.css",
+    "static/js/main.494a9b9e.js"
+  ]
+}
